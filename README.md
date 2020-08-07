@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/jorreholland-WSB/jorreholland-WSB/_apis/build/status/JorreHolland-WSB.pipelines-java?branchName=master)](https://dev.azure.com/jorreholland-WSB/jorreholland-WSB/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
